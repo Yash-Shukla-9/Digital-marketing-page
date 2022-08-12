@@ -1,0 +1,64 @@
+.navbar-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 22px;
+}
+.grow-list {
+  display: flex;
+}
+.logo {
+}
+.list-item {
+  align-items: center;
+  justify-content: space-between;
+  display: inline-block;
+  padding: 0px 20px;
+  font-weight: 500;
+}
+
+.button-group {
+  position: relative;
+  left: 48%;
+}
+.list1:hover {
+  background-color: black;
+}
+
+.nav-button {
+  background-color: blueviolet;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+}
+
+.banner-container {
+}
+.right-img {
+  top: 15%;
+  position: absolute;
+  left: 45%;
+}
+
+.heading-text {
+  position: absolute;
+  font-size: 3rem;
+  top: 30%;
+  text-anchor: inherit;
+}
+
+span {
+  color: blueviolet;
+}
+.description {
+  position: absolute;
+  top: 42vh;
+}
+
+.btn {
+  position: absolute;
+  top: 55vh;
+  left: 8%;
+  padding: 15px 20px;
+}
